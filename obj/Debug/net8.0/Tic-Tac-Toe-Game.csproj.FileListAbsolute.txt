@@ -1,0 +1,14 @@
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\bin\Debug\net8.0\Tic-Tac-Toe-Game.exe
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\bin\Debug\net8.0\Tic-Tac-Toe-Game.deps.json
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\bin\Debug\net8.0\Tic-Tac-Toe-Game.runtimeconfig.json
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\bin\Debug\net8.0\Tic-Tac-Toe-Game.dll
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\bin\Debug\net8.0\Tic-Tac-Toe-Game.pdb
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\net8.0\Tic-Tac-Toe-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\net8.0\Tic-Tac-Toe-Game.AssemblyInfoInputs.cache
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\net8.0\Tic-Tac-Toe-Game.AssemblyInfo.cs
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\net8.0\Tic-Tac-Toe-Game.csproj.CoreCompileInputs.cache
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\net8.0\Tic-Tac-Toe-Game.dll
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\net8.0\refint\Tic-Tac-Toe-Game.dll
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\net8.0\Tic-Tac-Toe-Game.pdb
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\net8.0\Tic-Tac-Toe-Game.genruntimeconfig.cache
+C:\Users\darfo\source\repos\Tic-Tac-Toe-Game\Tic-Tac-Toe-Game\obj\Debug\net8.0\ref\Tic-Tac-Toe-Game.dll
